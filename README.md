@@ -15,9 +15,9 @@
 
 
 ### Glad to see you here!  
-I recently graduated from the University of Greenwich. Gaining a First Class with Honours in Game Design and Development. Specialisation in Shaders 🎆, Production :open_book: and Sound Design 🎵
+I graduated from the University of Greenwich. Gaining a First Class with Honours in Game Design and Development. Specialisation in Shaders 🎆, Production :open_book: and Sound Design 🎵
 
-Currently taking on freelance jobs creating sound effects for multi-media projects, as well as Theatre 🎭.
+Currently working as a QA Tester for Cloud Imperium Games! :rocket: :space_invader:
 
 🔗 Checkout my [Sound Design Demo Reel](https://www.dropbox.com/s/2ct48nlkev7rv0o/Vanessa%20J%20Pointer%20-%20Audio%20Demo.mp4?dl=0)
 
