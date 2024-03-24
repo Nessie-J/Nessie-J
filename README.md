@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I recently graduated from the University of Greenwich. Gaining a First Class with Honours in Game Design and Development. Specialisation in Shaders 🎆 and Sound Design 🎵
+I recently graduated from the University of Greenwich. Gaining a First Class with Honours in Game Design and Development. Specialisation in Shaders 🎆, Production :open_book: and Sound Design 🎵
 
 Currently taking on freelance jobs creating sound effects for multi-media projects, as well as Theatre 🎭.
 
